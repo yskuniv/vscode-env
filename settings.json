@@ -1,0 +1,9 @@
+{
+    "alt-editor.args": "-c +{line}:{column} {filename}",
+    "alt-editor.binary": "/Applications/Emacs.app/Contents/MacOS/bin/emacsclient",
+    "alt-editor.name": "emacs",
+    "editor.minimap.enabled": false,
+     "[ruby]": {
+        "editor.tabSize": 2
+    },
+}
